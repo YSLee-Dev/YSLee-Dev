@@ -1,6 +1,6 @@
 ### Hello, 안녕하세요 👋
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=gray&height=300&section=header&text=YSLee-Dev&fontSize=80&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gray&height=300&section=header&text=YSLee-Dev&fontSize=80)
 
 <!--
 **YSLee-Dev/YSLee-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
