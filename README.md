@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=194d52&height=300&section=header&text=LEEYOONSU%20%20%20%20%20%20%20%20%20%20%20%20&fontSize=45&fontColor=e8e6cf&textBg=true&fontAlign=50&fontAlignY=50&&desc=이윤수&descSize=25&descAlign=50&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=soft&color=194d52&height=300&section=header&text=YOONSU%20LEE%20%20%20%20%20%20%20&fontSize=45&fontColor=e8e6cf&textBg=true&fontAlign=50&fontAlignY=50&&desc=GITHUB&descSize=25&descAlign=69&descAlignY=72)
+
 ### 안녕하세요 👋
 
-#### iOS 앱 개발자로의 성장을 꿈꾸는 이윤수입니다! <br> 현재 직장인이며, iOS 하이브리드 앱, 웹 앱을 제작해본 경험이 있습니다. 
+#### 새로운 경험을 좋아하는 iOS 개발자 이윤수입니다! <br> 현재 직장인이며, 꾸준히 공부하고 있습니다! 
 
 
 <div align=left>
@@ -10,6 +11,8 @@
  <img src="https://img.shields.io/badge/RxSwift-8D1F89?style=flat-square&logo=ReactiveX&logoColor=white"/>
  <img src="https://img.shields.io/badge/SwiftUI-2396F3?style=flat-square&logo=UIKit&logoColor=white"/>
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=FireBase&logoColor=white"/>
 </div>
 
 <div align=left>
